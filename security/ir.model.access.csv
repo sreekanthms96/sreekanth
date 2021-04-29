@@ -1,0 +1,3 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_bikes_bikes,bikes.bikes,model_bikes_bikes,base.group_user,1,1,1,1
+access_type_type_user,bikes.type.type,model_type_type,base.group_user,1,1,1,1
